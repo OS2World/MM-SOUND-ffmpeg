@@ -1,0 +1,27 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: ffmpeg-os2-r26099
+       Short Description: FFmpeg and FFplay compiled and assembled for OS/2
+        Long Description: FFmpeg with libx264, libxvid amd libmp3lame
+
+      Proposed directory
+           for placement: /pub/os2/apps/mmedia
+
+               Your name:  Dave Yeo
+           Email address: dave.r.yeo@gmail.com
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: ffmpeg.org
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 ver 4.5 and above
+ Additional requirements: Doodles SDL available at netlabs and probably already installed
+
+                Replaces: /pub/os2/apps/mmedia/ffmpeg-os2-r26087.zip
+
+
+

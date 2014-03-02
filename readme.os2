@@ -1,0 +1,10 @@
+This is FFmpeg revision 25128 compiled with GCC 4.4.4 and assembled with nasm 2.09-20100825 (any recent nasm should work).
+All needed libraries to compile should be on Hobbes excepting sdl which is Doodles port available at netlabs.
+Note that this version is built as GPL and static. I can build shared and/or LGPL if requested.
+You will still need libc63.dll which I think everyone already has.
+The only patch applied to FFmpeg is nasm.diff (thanks to Reimar D”ffinger for the assembly part and a good part of the configure part).
+Installation, extract binary files into a directory. Enjoy.
+Dave Yeo
+dave.r.yeo@gmail.com
+FFmpeg site at ffmpeg.org
+Build instructions at http://www.edm2.com/index.php/FFmpeg
